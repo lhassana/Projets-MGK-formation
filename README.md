@@ -37,4 +37,5 @@ Création d'un jeu drole et ludique de cartes de blagues.
 Dans ce projet qui nous rappelle notre enfance nous avons créé des cartes stipulant les différentes caractéristiques et informations des
 pokémon.
 
-### 
+### Projet profil
+Nous avons vu dans ce projet comment faire une page de profil.
