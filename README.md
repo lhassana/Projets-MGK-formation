@@ -15,4 +15,26 @@ Dans ce projet nous analysons la fonctionnalité et l'utilisation des slides.
 ### Projet SoundTrack
 Création d'une page web vous propose une liste d’artiste dont vous pouvez lancer la musique en cliquant sur l’image de l’artiste ou en tapant son nom dans la barre de recherche.
 
-### Projet 
+### Projet visite de kyoto
+Site vitrine qui propose une magnifique visite guidée de la ville de kyoto.
+
+### Projet compteur de calories
+Création d'un outil de comptage de calories pour aider les utilisateurs à suivre leur apport calorique quotidien. 
+
+### Projet drag-n-drop
+
+
+### Projet extension carte 
+
+
+### Projet hollywood-project
+Création d'un site avec l'outil BOOSTRAP, repertoriant différents films et informations sur ces derniers.
+
+### Projet jeu de blagues
+Création d'un jeu drole et ludique de cartes de blagues.
+
+### Projet pokémon attrapez les tous 
+Dans ce projet qui nous rappelle notre enfance nous avons créé des cartes stipulant les différentes caractéristiques et informations des
+pokémon.
+
+### 
