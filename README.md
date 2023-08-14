@@ -22,10 +22,10 @@ Site vitrine qui propose une magnifique visite guidée de la ville de kyoto.
 Création d'un outil de comptage de calories pour aider les utilisateurs à suivre leur apport calorique quotidien. 
 
 ### Projet drag-n-drop
-
+Projet javascript ludique où l'on prend une image qu'on insére dans une case. 
 
 ### Projet extension carte 
-
+Projet dynamique en javascript.
 
 ### Projet hollywood-project
 Création d'un site avec l'outil BOOSTRAP, repertoriant différents films et informations sur ces derniers.
